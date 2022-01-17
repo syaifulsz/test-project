@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>Test Project</h1>
+	<p>0.1.0</p>
 </body>
 </html>
