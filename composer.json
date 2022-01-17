@@ -1,0 +1,13 @@
+{
+    "name": "syaifulsz/test-project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Syaiful Shah Zinan",
+            "email": "syaifulshahzinan@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.79"
+    }
+}
